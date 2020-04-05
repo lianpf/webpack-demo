@@ -1,2 +1,17 @@
-# webpack-demo
-脚手架 webpack 配置 项目
+## webpack-demo
+
+***
+### 安装
+```
+> npm install
+```
+
+### 启动
+```
+> npm run dev
+```
+
+### 打包
+```
+> npm run build
+```
